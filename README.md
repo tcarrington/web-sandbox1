@@ -1,4 +1,3 @@
-web-MeteorSandbox
+web-sandbox1
 =================
 
-A sandbox repo for working with Meteor
